@@ -20,3 +20,6 @@ https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hboboxing" tvg-name="HBO Boxing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Boxing_Logo.png" group-title="Sports", HBO Boxing
 https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Adult_Swim_logo.svg" group-title="Animation", Adult Swim
+https://ott.udptv.xyz/stream/udptv/adultswim/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
