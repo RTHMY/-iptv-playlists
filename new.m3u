@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Geographic_Channel_logo.svg/320px-National_Geographic_Channel_logo.svg.png" group-title="Wildlife", Nat Geo Wild
 https://ott.udptv.xyz/stream/udptv/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 tvg-id="cartoon_moveonjoy" tvg-name="Cartoon Network (MoveOnJoy)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cartoon_Network_2010_logo.svg" group-title="Kids", Cartoon Network (MoveOnJoy)
-https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="cartoon_us" tvg-name="Cartoon Network (Utako US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cartoon_Network_2010_logo.svg" group-title="Kids", Cartoon Network (Utako US)
 https://us.utako.moe/cartoon_network/index.m3u8
 
@@ -20,3 +17,6 @@ https://vn.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 tvg-id="failarmy" tvg-name="FailArmy International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/FailArmy_Logo_2017.png/320px-FailArmy_Logo_2017.png" group-title="Comedy", FailArmy International (Samsung Wurl)
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hboboxing" tvg-name="HBO Boxing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Boxing_Logo.png" group-title="Sports", HBO Boxing
+https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
