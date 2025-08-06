@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Geographic_Channel_logo.svg/320px-National_Geographic_Channel_logo.svg.png" group-title="Wildlife",Nat Geo Wild
-https://ott.udptv.xyz/stream/udptv/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://ott.udptv.xyz/stream/udptv/natgeowild/master.m3u8%3Fu%3Dcocked%26p%3Ddd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network (Utako US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cartoon_Network_2010_logo.svg" group-title="Kids",Cartoon Network (Utako US)
 https://us.utako.moe/cartoon_network/index.m3u8
@@ -10,7 +10,7 @@ https://us.utako.moe/cartoon_network/index.m3u8
 https://vn.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1 tvg-id="animax.udptv" tvg-name="Animax (UDPTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Animax_Logo.svg" group-title="Anime",Animax (UDPTV)
-http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+http://ott.udptv.net/stream/iptv/animax/master.m3u8%3Fu%3Dcocked%26p%3Ddd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 tvg-id="animax.vn" tvg-name="Animax (Utako VN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Animax_Logo.svg" group-title="Anime",Animax (Utako VN)
 https://vn.utako.moe/Animax/index.m3u8
@@ -19,7 +19,7 @@ https://vn.utako.moe/Animax/index.m3u8
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hboboxing" tvg-name="HBO Boxing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Boxing_Logo.png" group-title="Sports",HBO Boxing
-https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8%3Fu%3Dcocked%26p%3Ddd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Adult_Swim_logo.svg" group-title="Animation",Adult Swim
-https://ott.udptv.xyz/stream/udptv/adultswim/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://ott.udptv.xyz/stream/udptv/adultswim/master.m3u8%3Fu%3Dcocked%26p%3Ddd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
